@@ -1,7 +1,7 @@
 
-# Problem: Palindrome Number
+# Problem: Maximum Subarray
 
 def solution():
-    print("Solving problem: Palindrome Number")
+    print("Solving problem: Maximum Subarray")
 
 solution()
