@@ -1,7 +1,7 @@
 
-# Problem: Two Sum
+# Problem: Valid Parentheses
 
 def solution():
-    print("Solving problem: Two Sum")
+    print("Solving problem: Valid Parentheses")
 
 solution()
