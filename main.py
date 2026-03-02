@@ -23,7 +23,7 @@ def run_ai():
 
     print("AI Assistant completed today's tasks")
 
-schedule.every().day.at("10:00").do(run_ai)
+schedule.every(5).seconds.do(run_ai)
 
 print("AI Assistant running...")
 
