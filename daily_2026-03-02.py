@@ -1,7 +1,7 @@
 
-# Problem: Valid Parentheses
+# Problem: Maximum Subarray
 
 def solution():
-    print("Solving problem: Valid Parentheses")
+    print("Solving problem: Maximum Subarray")
 
 solution()
