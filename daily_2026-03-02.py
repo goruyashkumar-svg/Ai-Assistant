@@ -1,7 +1,7 @@
 
-# Problem: Maximum Subarray
+# Problem: Two Sum
 
 def solution():
-    print("Solving problem: Maximum Subarray")
+    print("Solving problem: Two Sum")
 
 solution()
