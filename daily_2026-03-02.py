@@ -1,7 +1,7 @@
 
-# Problem: Valid Parentheses
+# Problem: Palindrome Number
 
 def solution():
-    print("Solving problem: Valid Parentheses")
+    print("Solving problem: Palindrome Number")
 
 solution()
